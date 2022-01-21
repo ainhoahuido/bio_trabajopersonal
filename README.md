@@ -10,3 +10,5 @@ hola me llamo ainhoa
 ##Exportar csv
 
 Hemos exportado un csv en el script llamado *script_exportar 1*
+
+Hemos hecho pruebas con aggregate y order
